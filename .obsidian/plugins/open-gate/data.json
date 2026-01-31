@@ -1,0 +1,16 @@
+{
+  "uuid": "f74udkravnidndr5nqzko",
+  "gates": {
+    "aHR0cDovL29vcnQubG9jYWwv": {
+      "id": "aHR0cDovL29vcnQubG9jYWwv",
+      "title": "Oort Local",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://icon.horse/icon/oort.local\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "http://oort.local/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    }
+  }
+}

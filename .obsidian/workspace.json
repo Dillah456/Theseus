@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "0df5a19819772f6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d91464f663eaa0fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09f4086fda387b0b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Tampilan grafik"
+            }
+          },
+          {
+            "id": "1458b36b7b26e1e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relik"
+            }
+          },
+          {
+            "id": "42141e59ef1301a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iseng/Tanpa judul.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tanpa judul"
+            }
+          },
+          {
+            "id": "0ca035d099d1d153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kerja Praktik/Studi Pustaka/Pengembangan E-Learning Teori dan Desain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pengembangan E-Learning Teori dan Desain"
+            }
+          },
+          {
+            "id": "95266b885d74c1a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dokumen Non-R/Relik P2MW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relik P2MW"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3a899659846638b",
+    "type": "split",
+    "children": [
+      {
+        "id": "51244e20208b22cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d572781f06ee0c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Penjelajah berkas"
+            }
+          },
+          {
+            "id": "df7480bb2fefcf12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Penelusuran"
+            }
+          },
+          {
+            "id": "1f545da74c292ac5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Penanda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "df915b283d624638",
+    "type": "split",
+    "children": [
+      {
+        "id": "88028702c6efffb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7d2edeef6fd1f97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jan - 29 - 2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlink pada Jan - 29 - 2026"
+            }
+          },
+          {
+            "id": "a0344a2ca4bdd00f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jan - 29 - 2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Tautan keluar dari Jan - 29 - 2026"
+            }
+          },
+          {
+            "id": "9c1b484c491b6fb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "867c8de9421860b6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Semua properti"
+            }
+          },
+          {
+            "id": "42f88f909ffc5226",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Presentasi RPL/2. Pembagian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Kerangka dari 2. Pembagian"
+            }
+          },
+          {
+            "id": "f059a9e2ad6a318d",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cDovL29vcnQubG9jYWwv",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "aHR0cDovL29vcnQubG9jYWwv"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Buka peralih cepat": false,
+      "graph:Buka tampilan grafik": false,
+      "canvas:Buat kanvas baru": false,
+      "daily-notes:Buka catatan hari ini": false,
+      "templates:Masukkan template": false,
+      "command-palette:Buka palet perintah": false,
+      "bases:Create new base": false,
+      "open-gate:Oort Local": false
+    }
+  },
+  "active": "09f4086fda387b0b",
+  "lastOpenFiles": [
+    "Dokumen Non-R/Relik P2MW.md",
+    "Iseng",
+    "Kerja Praktik/Log/List Masalah.md",
+    "Dokumen Non-R",
+    "Proyek",
+    "Kerja Praktik/Studi Pustaka/Pengembangan E-Learning Teori dan Desain.md",
+    "Kerja Praktik/Studi Pustaka/Manajemen Penelitian.md",
+    "Iseng/Tanpa judul.md",
+    "Proyek/Perbandingan server.js dan http-server.md",
+    "Iseng/Test Iframe Obsidian.md",
+    "Dokumen Non-R/Relik.md",
+    "Presentasi RPL/3. Rekap.md",
+    "Presentasi RPL/2. Pembagian.md",
+    "Presentasi RPL/1. Link Pengiriman.md",
+    "Proyek/Jan - 29 - 2026.md",
+    "Presentasi RPL"
+  ]
+}
