@@ -1,5 +1,7 @@
 Helep, Catatan didalam Log sifatnya hanyalah Draft dari Analisis dan tidak akan dimasukan kedalam Laporan.
 
+
+
 Table Of Content
 [[#A. Question Perspektif BSC]]
 
