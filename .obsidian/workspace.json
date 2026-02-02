@@ -20,21 +20,49 @@
             }
           },
           {
-            "id": "deb383e813ab8e4f",
+            "id": "f79bc994f310851b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pesona Sukabumi/2026/Repositories ArduSatoru.md",
+                "file": "Rundown PSBM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repositories ArduSatoru"
+              "title": "Rundown PSBM"
+            }
+          },
+          {
+            "id": "21ae8e7f167e2229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RunDown KP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RunDown KP"
+            }
+          },
+          {
+            "id": "c28937a6f16ca2d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Area/Kerja Praktik/Arsip/Dokumen KP2025-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dokumen KP2025-2026"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -66,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Studi_Pustaka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,53 +236,53 @@
       "open-gate:Oort Local": false
     }
   },
-  "active": "deb383e813ab8e4f",
+  "active": "c28937a6f16ca2d8",
   "lastOpenFiles": [
-    "Pesona Sukabumi/2025/30 Mei 2025.md",
-    "Pesona Sukabumi/2026/Repositories ArduSatoru.md",
-    "Pesona Sukabumi/2026",
-    "Proyek/Oort/Repositories Oort.md",
-    "Pesona Sukabumi/2025",
-    "Proyek/Pesona Sukabumi/30 Mei 2025.md",
-    "Proyek/Oort",
-    "Pesona Sukabumi/Materi/Pelayanan Prima-20250211T130438Z-001/Pelayanan Prima/jurnal buat analisis/822-1429-1-SM.pdf",
-    "Pesona Sukabumi/Materi/Pelayanan Prima-20250211T130438Z-001/Pelayanan Prima/jurnal buat analisis/24-7797-1-SM.pdf",
-    "Pesona Sukabumi/Materi/Pelayanan Prima-20250211T130438Z-001/Pelayanan Prima/jurnal buat analisis/229570031.pdf",
-    "Pesona Sukabumi/Materi/Pelayanan Prima-20250211T130438Z-001/Pelayanan Prima/jurnal buat analisis/24-7797-1-SM (1).pdf",
-    "Pesona Sukabumi/Materi/Pelayanan Prima-20250211T130438Z-001/Pelayanan Prima/jurnal buat analisis/1941-4752-1-PB.pdf",
-    "Pesona Sukabumi/Materi/Pelayanan Prima-20250211T130438Z-001/Pelayanan Prima/jurnal buat analisis/20494-94418-1-PB.pdf",
-    "Pesona Sukabumi/Materi/Pelayanan Prima-20250211T130438Z-001/Pelayanan Prima/~$02859_Sarah Nabila_ Review Jurnal Pelayanan Prima.docx",
-    "Pesona Sukabumi/Pesona/Bahan/Sempat Anjlok di Libur Akhir Tahun 2024, Kini Kunjungan Wisatawan di Sukabumi Melonjak.md",
-    "Pesona Sukabumi/Pesona/Bahan/Review Buku, Pemasaran Pariwisata.md",
-    "Pesona Sukabumi/Pesona/Bahan/Peningkatan Jumlah Wisatawan ke Geopark Ciletuh Capai 30 Persen.md",
-    "Pesona Sukabumi/Pesona/Bahan/Pasted image 20260117192425.png",
-    "Pesona Sukabumi/Pesona/Bahan/Manajemen Pemasaran Pendekatan praktis.md",
-    "Pesona Sukabumi/Pesona/Bahan/Dispar Sebut Kunjungan Wisatawan ke Sukabumi Meningkat hingga 26%.md",
-    "Pesona Sukabumi/Materi/Logo Pesona Sukabumi_Warna_PNG.png",
-    "Pesona Sukabumi/Peta/Sumber Peta.md",
-    "Pesona Sukabumi/Peta/administrasi-sukabumi-a1-1.jpg",
-    "Pesona Sukabumi/Peta/kontur-sukabumi-a1-11.jpg",
-    "Pesona Sukabumi/Materi/WhatsApp Image 2024-10-08 at 22.03.35_7e760940.jpg",
-    "Pesona Sukabumi/Materi/WhatsApp Image 2024-10-08 at 20.48.15_0f87a2a5.jpg",
-    "Pesona Sukabumi/Materi/WhatsApp Image 2024-10-08 at 20.48.16_02350aea.jpg",
-    "Pesona Sukabumi/2025/Review.md",
-    "Pesona Sukabumi/2025/Pesona Sukabumi.md",
-    "Pesona Sukabumi/2025/Jurnalis.md",
-    "Kerja Praktik/Dokumentasi 2020.md",
-    "Proyek/Pesona Sukabumi/Pesona/Bahan/Sempat Anjlok di Libur Akhir Tahun 2024, Kini Kunjungan Wisatawan di Sukabumi Melonjak.md",
-    "Isu.md",
-    "Kerja Praktik/Arsip/Dokumen KP2025-2026.md",
-    "Proyek/Pesona Sukabumi/Pesona/Bahan/Review Buku, Pemasaran Pariwisata.md",
-    "Proyek/Pesona Sukabumi/Pesona/Bahan/Peningkatan Jumlah Wisatawan ke Geopark Ciletuh Capai 30 Persen.md",
-    "Proyek/Pesona Sukabumi/Pesona/Bahan/Manajemen Pemasaran Pendekatan praktis.md",
-    "Proyek/Pesona Sukabumi/Pesona/Bahan/Dispar Sebut Kunjungan Wisatawan ke Sukabumi Meningkat hingga 26%.md",
-    "Proyek/Pesona Sukabumi/Review.md",
-    "Proyek/Jan - 29 - 2026.md",
-    "Proyek/Pesona Sukabumi/Pesona Sukabumi.md",
-    "Proyek/Pesona Sukabumi/Jurnalis.md",
+    "Rundown PSBM.md",
+    "RunDown KP.md",
+    "3_Resource/Dilema T18.md",
+    "3_Resource/Tujuan Theseus.md",
+    "3_Resource",
+    "2_Area/Pesona Sukabumi/2026/Tubulasi R&D.md",
+    "2_Area/Pesona Sukabumi/2025/30 Mei 2025.md",
+    "1_Proyek/Jan - 29 - 2026.md",
+    "4_Archive/Iseng/Test Iframe Obsidian.md",
+    "4_Archive/Iseng/Tentang Oort.local.md",
+    "2_Area/Pesona Sukabumi/Pesona/~$aft BAB II & III.docx",
+    "2_Area/G424/Belajar/Bare Metal Programing.md",
+    "2_Area/G424/Belajar/Mayer.md",
+    "2_Area/G424/Journaling Emosi.md",
+    "2_Area/G424/Belajar",
+    "2_Area/Pesona Sukabumi/2026/Rekap Konten.md",
+    "2_Area/Kerja Praktik/Arsip/Dokumentasi Untuk Teman teman.md",
+    "2_Area/G424",
+    "1_Proyek/Perbandingan server.js dan http-server.md",
+    "4_Archive",
+    "2_Area",
+    "1_Proyek/Oort/Repositories Oort.md",
+    "2_Area/Pesona Sukabumi/2026/Repositories ArduSatoru.md",
+    "4_Archive/Agenda Harian",
+    "2_Area/Pesona Sukabumi/2026/Pembuatan CV.md",
+    "2_Area/Pesona Sukabumi/2025/Review.md",
+    "2_Area/Kerja Praktik/Log/List Masalah.md",
+    "2_Area/Pesona Sukabumi/2025/Jurnalis.md",
+    "2_Area/Pesona Sukabumi/Pesona/Bahan/Peningkatan Jumlah Wisatawan ke Geopark Ciletuh Capai 30 Persen.md",
+    "2_Area/Pesona Sukabumi/Pesona/Bahan/Manajemen Pemasaran Pendekatan praktis.md",
+    "2_Area/Pesona Sukabumi/Peta/Sumber Peta.md",
+    "2_Area/Pesona Sukabumi/Pesona/Bahan/Sempat Anjlok di Libur Akhir Tahun 2024, Kini Kunjungan Wisatawan di Sukabumi Melonjak.md",
+    "2_Area/Pesona Sukabumi/Pesona/Bahan/Review Buku, Pemasaran Pariwisata.md",
+    "2_Area/Pesona Sukabumi/Materi/Dwi Melinda Putri_2207861_Logbook Ekologi Keluarga.pdf",
+    "2_Area/Pesona Sukabumi/2026",
+    "2_Area/Pesona Sukabumi/2025",
+    "2_Area/Pesona Sukabumi/Pesona/Bahan/Pasted image 20260117192425.png",
+    "2_Area/Pesona Sukabumi/Materi/Logo Pesona Sukabumi_Warna_PNG.png",
+    "2_Area/Pesona Sukabumi/Peta/administrasi-sukabumi-a1-1.jpg",
+    "2_Area/Pesona Sukabumi/Peta/kontur-sukabumi-a1-11.jpg",
+    "2_Area/Pesona Sukabumi/Materi/WhatsApp Image 2024-10-08 at 22.03.35_7e760940.jpg",
+    "2_Area/Pesona Sukabumi/Materi/WhatsApp Image 2024-10-08 at 20.48.15_0f87a2a5.jpg",
+    "2_Area/Pesona Sukabumi/Materi/WhatsApp Image 2024-10-08 at 20.48.16_02350aea.jpg",
     "Proyek/Pesona Sukabumi/Pesona/Bahan/Pasted image 20260117192425.png",
     "Proyek/Pesona Sukabumi/Peta/administrasi-sukabumi-a1-1.jpg",
-    "Proyek/Pesona Sukabumi/Peta/Sumber Peta.md",
     "Proyek/Pesona Sukabumi/Peta/kontur-sukabumi-a1-11.jpg"
   ]
 }
