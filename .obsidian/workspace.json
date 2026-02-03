@@ -4,8 +4,85 @@
     "type": "split",
     "children": [
       {
+        "id": "9acd5bd56a5ec43d",
+        "type": "tabs",
+        "dimension": 51.833976833976834,
+        "children": [
+          {
+            "id": "e3064f75f2f56098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Area/Kerja Praktik/Studi Pustaka/Evaluasi Pembelajaran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evaluasi Pembelajaran"
+            }
+          },
+          {
+            "id": "2ee49235b872c67a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Area/Kerja Praktik/Studi Pustaka/Pengembangan E-Learning Teori dan Desain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pengembangan E-Learning Teori dan Desain"
+            }
+          },
+          {
+            "id": "b0bcbc3a24100f43",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2_Area/Kerja Praktik/Arsip/SISTEM PENGELOLAAN NILAI RAPOR MENGGUNAKAN APLIKASI MICROSOFT EXCEL BERBASIS VBA (VISUAL BASIC FOR APPLICATIONS) DI SMKN 1 PALASAH.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SISTEM PENGELOLAAN NILAI RAPOR MENGGUNAKAN APLIKASI MICROSOFT EXCEL BERBASIS VBA (VISUAL BASIC FOR APPLICATIONS) DI SMKN 1 PALASAH"
+            }
+          },
+          {
+            "id": "4ce5b926e38eee32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Area/Kerja Praktik/Studi Pustaka/Perencanaan Pembelajaran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Perencanaan Pembelajaran"
+            }
+          },
+          {
+            "id": "54f7f3afb71c89d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Area/Kerja Praktik/Arsip/Panduan Macro Excel untuk membuat Aplikasi RAB Bangunan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Panduan Macro Excel untuk membuat Aplikasi RAB Bangunan"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
         "id": "d91464f663eaa0fc",
         "type": "tabs",
+        "dimension": 48.166023166023166,
         "children": [
           {
             "id": "09f4086fda387b0b",
@@ -20,77 +97,21 @@
             }
           },
           {
-            "id": "f79bc994f310851b",
+            "id": "b3eee083593c312b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Area/Kerja Praktik/Studi Pustaka/Evaluasi Pembelajaran.md",
+                "file": "2_Area/Kerja Praktik/Arsip/Panduan Macro Excel untuk membuat Aplikasi RAB Bangunan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluasi Pembelajaran"
-            }
-          },
-          {
-            "id": "21ae8e7f167e2229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Area/Kerja Praktik/Studi Pustaka/Perencanaan Pembelajaran.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perencanaan Pembelajaran"
-            }
-          },
-          {
-            "id": "e61a356b5c7dd8e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Area/Kerja Praktik/Dokumentasi 2020.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dokumentasi 2020"
-            }
-          },
-          {
-            "id": "29e58434bfaa8126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Area/Kerja Praktik/Arsip/Dokumen KP2025-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dokumen KP2025-2026"
-            }
-          },
-          {
-            "id": "e0f0ab4e635d006f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RunDown KP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RunDown KP"
+              "title": "Panduan Macro Excel untuk membuat Aplikasi RAB Bangunan"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,23 +285,31 @@
       "open-gate:Oort Local": false
     }
   },
-  "active": "e0f0ab4e635d006f",
+  "active": "b3eee083593c312b",
   "lastOpenFiles": [
-    "2_Area/Kerja Praktik/Arsip/~$poran-Rev 2-2-2026.docx",
     "2_Area/Kerja Praktik/Arsip/~WRL0005.tmp",
     "2_Area/Kerja Praktik/Arsip/~WRD0004.tmp",
-    "2_Area/Kerja Praktik/Arsip/Laporan-Rev 2-2-2026.docx",
-    "2_Area/Kerja Praktik/Studi Pustaka/Evaluasi Pembelajaran.md",
+    "Map Of Content KP.md",
     "RunDown KP.md",
-    "2_Area/Kerja Praktik/Dokumentasi 2020.md",
-    "2_Area/Kerja Praktik/Arsip/E-Book Metodologi Penelitian Syafrida.pdf",
-    "2_Area/Kerja Praktik/Arsip/Unconfirmed 920461.crdownload",
-    "2_Area/Kerja Praktik/Arsip/Dokumen KP2025-2026.md",
+    "2_Area/Kerja Praktik/Arsip/Alpenast.md",
+    "2_Area/Kerja Praktik/Arsip/SISTEM PENGELOLAAN NILAI RAPOR MENGGUNAKAN APLIKASI MICROSOFT EXCEL BERBASIS VBA (VISUAL BASIC FOR APPLICATIONS) DI SMKN 1 PALASAH.pdf",
+    "2_Area/Kerja Praktik/Arsip/Panduan Macro Excel untuk membuat Aplikasi RAB Bangunan.md",
+    "2_Area/Kerja Praktik/Arsip/1861-Article Text-7608-1-10-20220414.pdf",
+    "2_Area/Kerja Praktik/Studi Pustaka/Pengembangan E-Learning Teori dan Desain.md",
+    "2_Area/Kerja Praktik/Studi Pustaka/Evaluasi Pembelajaran.md",
+    "Pasted image 20260203141507.png",
+    "[[.md",
     "2_Area/Kerja Praktik/Studi Pustaka/Perencanaan Pembelajaran.md",
+    "2_Area/Kerja Praktik/Arsip/Dokumen KP2025-2026.md",
+    "2_Area/Kerja Praktik/Arsip/E-Book Metodologi Penelitian Syafrida.pdf",
+    "2_Area/Kerja Praktik/Studi Pustaka/Manajemen Penelitian.md",
+    "2_Area/Kerja Praktik/Studi Pustaka/Pasted image 20251214084829.png",
+    "2_Area/Kerja Praktik/Arsip/~$poran-Rev 2-2-2026.docx",
+    "2_Area/Kerja Praktik/Arsip/Laporan-Rev 2-2-2026.docx",
+    "2_Area/Kerja Praktik/Dokumentasi 2020.md",
+    "2_Area/Kerja Praktik/Arsip/Unconfirmed 920461.crdownload",
     "Rundown PSBM.md",
     "2_Area/Kerja Praktik/Tanpa judul.md",
-    "2_Area/Kerja Praktik/Studi Pustaka/Pengembangan E-Learning Teori dan Desain.md",
-    "2_Area/Kerja Praktik/Studi Pustaka/Manajemen Penelitian.md",
     "2_Area/Kerja Praktik/Arsip/Dokumentasi Untuk Teman teman.md",
     "3_Resource/Dilema T18.md",
     "3_Resource/Tujuan Theseus.md",
@@ -294,14 +323,7 @@
     "2_Area/G424/Belajar/Bare Metal Programing.md",
     "2_Area/G424/Belajar/Mayer.md",
     "2_Area/G424/Journaling Emosi.md",
-    "2_Area/G424/Belajar",
     "2_Area/Pesona Sukabumi/2026/Rekap Konten.md",
-    "2_Area/G424",
-    "1_Proyek/Perbandingan server.js dan http-server.md",
-    "4_Archive",
-    "1_Proyek/Oort/Repositories Oort.md",
-    "2_Area/Pesona Sukabumi/2026/Repositories ArduSatoru.md",
-    "2_Area/Pesona Sukabumi/2026/Pembuatan CV.md",
     "2_Area/Pesona Sukabumi/Pesona/Bahan/Pasted image 20260117192425.png",
     "2_Area/Pesona Sukabumi/Materi/Logo Pesona Sukabumi_Warna_PNG.png",
     "2_Area/Pesona Sukabumi/Peta/administrasi-sukabumi-a1-1.jpg",
@@ -309,8 +331,6 @@
     "2_Area/Pesona Sukabumi/Materi/WhatsApp Image 2024-10-08 at 22.03.35_7e760940.jpg",
     "2_Area/Pesona Sukabumi/Materi/WhatsApp Image 2024-10-08 at 20.48.15_0f87a2a5.jpg",
     "2_Area/Pesona Sukabumi/Materi/WhatsApp Image 2024-10-08 at 20.48.16_02350aea.jpg",
-    "Proyek/Pesona Sukabumi/Pesona/Bahan/Pasted image 20260117192425.png",
-    "Proyek/Pesona Sukabumi/Peta/administrasi-sukabumi-a1-1.jpg",
-    "Proyek/Pesona Sukabumi/Peta/kontur-sukabumi-a1-11.jpg"
+    "Proyek/Pesona Sukabumi/Pesona/Bahan/Pasted image 20260117192425.png"
   ]
 }
