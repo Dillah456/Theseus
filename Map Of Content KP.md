@@ -28,7 +28,7 @@
 Dalam pengertian ini secara implisit dalam pengajaran terdapat kegiata memilih, menetapkan, mengembangkan metode untuk mencapai hasil pengajaran yang diinginkan."
 [A]([[#Bab 2]])
 
-[[Perencanaan Pembelajaran]] 
+#### [[Perencanaan Pembelajaran]] 
 
 Sebagai suatu kegiatan yang memiliki Keluaran atau tujuan, Pembelajaran sangat memerlukan komponen komponen Manajemen, hal itu dengan tujuan agar Mata Pembelajaran atau Mata Perkuliahan dapat dikuasai oleh Peserta Didik. 
 Dalam (  ), Dasar perlunya Perencanaan pembelajaran ialah 
@@ -51,7 +51,7 @@ Untuk mengetahui suatu proses berjalan sesuai perencanaan atau tidak, suatu pros
 
 Sehingga Evaluasi 
 
-[[Evaluasi Pembelajaran]]
+##### [[Evaluasi Pembelajaran]]
 
 
 
@@ -64,7 +64,9 @@ Excel sangat mendukung pemprosesan data dan secara luas digunakan hampir disetia
 Sehingga muncul lah bentuk aplikasi Excel yang memanfaatkan VBA sebagai UI.
 
 2.2.1. Aplikasi Raport Berbasis Excel
-Aplikasi Raport Berbasis Excel marak tersebar di Internet, "Visual Basic For Aplication (VBA)  atau biasa dikenal dengan istilah Macro, merupakan pengembangan bahasa pemprograman Visual Basic yang diterapkan ke dalam Excel, Berbeda dengan program yang dibuat menggunakan Macro hanya dapat dibangun dan digunakan pada aplikasi Excel"[[Panduan Macro Excel untuk membuat Aplikasi RAB Bangunan]]
+Aplikasi Raport Berbasis Excel marak tersebar di Internet, "Visual Basic For Aplication (VBA)  atau biasa dikenal dengan istilah Macro, merupakan pengembangan bahasa pemprograman Visual Basic yang diterapkan ke dalam Excel, Berbeda dengan program yang dibuat menggunakan Macro hanya dapat dibangun dan digunakan pada aplikasi Excel"
+
+#### [[Panduan Macro Excel untuk membuat Aplikasi RAB Bangunan]]
 
 2.2. Perbandingan Excel dengan Web
 ### 2.3. Learning Management System ( LMS ) dan ( ? )
@@ -75,7 +77,7 @@ Learning Management System, adalah sistem pada E-Pembelajaran atau Pembelajaran 
 3. Substitusi
 
 "Seiring dengan perkembangan Teknologi internet ... kebutuhan akan Informasi yang dapat diperoleh dengan cepat mulai dirasakan sebagai kebutuhan Mutlak , dan jarak serta lokasi bukanlah halangan lagi. ... Perkembangan LMS yang makin pesat membuat  pemikiran baru untuk mengatasi masalah *interoperability* ...." (  )
-[[Pengembangan E-Learning Teori dan Desain]]
+#### [[Pengembangan E-Learning Teori dan Desain]]
 
 Sehingga Sistem Monitoring ini tidak bisa disebut sebagai LMS, Sistem Monitoring ini spesifik hanya memenuhi proses Input, Proses, dan Output berupa Evaluasi Pembelajaran.
 
@@ -98,7 +100,7 @@ Sehingga Sistem Monitoring ini tidak bisa disebut sebagai LMS, Sistem Monitoring
 ## Bab 3
 ### 3.1. Metode Penelitian 
 ---
-[[E-Book Metodologi Penelitian Syafrida.pdf]]
+#### [[E-Book Metodologi Penelitian Syafrida.pdf]]
 
 
 ### 3.2. 
@@ -109,9 +111,14 @@ Sehingga Sistem Monitoring ini tidak bisa disebut sebagai LMS, Sistem Monitoring
 
 
 # Source 
-
+1. [[#Perencanaan Pembelajaran]]
+2. [[#Evaluasi Pembelajaran]]
+3. [[#Panduan Macro Excel untuk membuat Aplikasi RAB Bangunan]]
+4. [[#Pengembangan E-Learning Teori dan Desain]]
+5. [[#E-Book Metodologi Penelitian Syafrida.pdf]]
 
 # Methode
+
 
 
 # Idea_Rel

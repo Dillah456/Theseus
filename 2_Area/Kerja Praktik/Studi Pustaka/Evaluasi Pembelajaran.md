@@ -90,9 +90,43 @@ B. Penilaian Acuan Patokan ( PAP )
 		Kemungkinan peserta didik banyak yang tidak lulus karena tidak ada yang memenuhi kriteria 
 
 # Bab 4
-
+A. Teknik dan Instrumen Penilaian
+	Permendiknas No. 22 Tahun 2006 menyatakan bahwa Standar Isi ( SI ) untuk satuan pendidikan dasar dan menengah mencakup lingkungan materi minimal dan tingkat kompetensi minimal...
+	Berbagai macam teknik penilaian dapat dilakukan secara komplementer ( saling melengkapi ) sesuai dengan kompetensi yang dinilai, Teknik penilaian yang dimaksud antara lain melalui tes, observasi, penugasan, jurnal, penilaian diri, dan penilaian antarteman yang sesuai dengan karakteristik kompetensi dan tingkat perkembangan peserta didik.
+	Penilaian pada Kurnas 2013 meliputi berbasis tes dan nontes ( portofolio ), menilai proses dan output dengan menggunakan authentic assesment, serta rapor memuat penilaian kuantitatif
+B. Aspek yang dinilai
+	Penilaian dilaukan secara menyeluruh yaitu mencakup semua aspek kompetensi yang meliputi kognitif, psikomotorik, dan Afektif. Kemampuan kognitif adalah kemampuan berpikir yang menurut taksonomi Bloom secara hierarkis terdiri atas Pengetahuan, Pemahaman, Aplikasi, Analisis, Sintesis, dan Evaluasi. ....
+	Dalam laporan hasil belajar peserta dididik, terdapat komponen pengetahuan yang umumnya representasi aspek kognitif, komponen praktik yang melibatkan psikomotorik, dan komponsen sikap yang berkaitan dengan kondisiefektid peserta didik terhadap mata plejaran tersebut
+C. Instrumen Penilaian
+	Setiap teknik penilaian harus dibuat instrumen penilaian yang sesuai Tabel berikut menyajikan klasifikasi penilaian dan bentuk Instrumen :
+	Tabel :
+	Lainnya :
+	1. Contoh Instrumen Observasi
+	   <iframe src="https://id.scribd.com/document/34464085/Instrumen-Penilaian-Observasi-Kelas" width="500px" height="400px"></iframe>
+	2. Contoh Instrumen Penilaian Tugas : Proyek
+		1. Contoh 1
+		<iframe src="https://id.scribd.com/document/363449095/INSTRUMEN-PENILAIAN-PROYEK" width="500px" height="400px"></iframe>
+		2. Contoh 2
+		<iframe src="https://id.scribd.com/document/420570069/Contoh-Instrumen-Penilaian-Proyek" width="500px" height="400px"></iframe>
+	3. Instrumen Penilaian TUgas : Produk
+	<iframe src="https://id.scribd.com/document/506686324/Penilaian-Produk" width="500px" height="400px"></iframe>
+	4. Incstrumen inventori menggunakan skala beda ( Berdiferensiasi ) Semantik
 
 # Bab 5
 A. Penilaian Kinerja
 	Adalah penilaian yang dapat mengungkapkan kemampuan peserta didik dalam pemahaman konse, pemecahan masalah, dan komunikasi. Penilaian Perbuatan atau unjuk kerja adalah penilaian tindakan atau tes praktik yang secara efektif dapat digunakan untuk kepentingan pengumpulan berbagai informasi mengenai berbagai bentuk perilaku yang diharapkan muncul daklam peseta didik.
 	Penilaian untuk kerja juga merupakan penilaian yang meminta peserta didik untuk mendemonstasikan dan mengaolikasikan pengetahuan ke dalam konteks yang sesuai dengan kriteria yang diterapkan Penilaian Kinerja ( Performance assesment ) adalah bagian dari asesment alternative. Asessment ini muncul sekitar tahun 1980-an sebagai kritikan terhadap kelemahan tes baku.
+1. Instrumen Penilaian untuk kerja 
+	   1. Check List
+	   2. Rating Scale
+2. Standar Penilaian untuk kerja
+	1. Autentik dan Menarik
+	2. Memungkinkan Penilaian Individual
+	3. Memuat Petunjuk yang jelas
+3. Teknik dan Langkah penilaian untuk Kerja
+	1. Penilaian untuk kerja
+		1. Tetapkan KD yang akan dinilaidengan teknik penilaian unjuk keja beserta berbagai indikatornya
+		2. 
+	2. Merencanakan penilaian untuk kerja atau praktik
+	3. Langkah yang harus dilakukan dalam melaksanakan penilaian untuk kerja atau praktik
+	4. 

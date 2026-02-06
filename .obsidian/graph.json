@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -48,6 +48,20 @@
         "a": 1,
         "rgb": 16774912
       }
+    },
+    {
+      "query": "path:2_Area/G424  ",
+      "color": {
+        "a": 1,
+        "rgb": 14641343
+      }
+    },
+    {
+      "query": "path:\"2_Area/Bina Marga\" path:",
+      "color": {
+        "a": 1,
+        "rgb": 327424
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +74,6 @@
   "repelStrength": 8.4083044982699,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7845091625197834,
+  "scale": 0.43474334501457323,
   "close": false
 }
