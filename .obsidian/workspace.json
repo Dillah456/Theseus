@@ -6,6 +6,7 @@
       {
         "id": "d91464f663eaa0fc",
         "type": "tabs",
+        "dimension": 25.868725868725868,
         "children": [
           {
             "id": "09f4086fda387b0b",
@@ -20,21 +21,51 @@
             }
           },
           {
-            "id": "4e2dc824dea37317",
+            "id": "2eb615788761a2b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Area/G424/Belajar/Lesson Planer.md",
+                "file": "RunDown KP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson Planer"
+              "title": "RunDown KP"
+            }
+          },
+          {
+            "id": "8f25e9c8b5e2d4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Area/G424/Belajar/Project Planer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Planer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "7cbf75d586824f69",
+        "type": "tabs",
+        "dimension": 74.13127413127413,
+        "children": [
+          {
+            "id": "d989759650a440ca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Tab baru"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Studi_Pustaka",
+                "query": "oort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,53 +239,53 @@
       "open-gate:Oort Local": false
     }
   },
-  "active": "4e2dc824dea37317",
+  "active": "3d572781f06ee0c7",
   "lastOpenFiles": [
-    "2_Area/G424/Belajar/Materi API CI4.md",
-    "2_Area/G424/Belajar/Lesson Planer.md",
-    "2_Area/G424/Belajar/Project Planer.md",
-    "2_Area/G424/Belajar/Mayer.md",
-    "2_Area/G424/Belajar/Bare Metal Programing.md",
-    "2_Area/Kerja Praktik/Tanpa judul.md",
-    "2_Area/Kerja Praktik/Arsip/4311-11877-1-PB (1).pdf",
-    "2_Area/Kerja Praktik/Arsip/4311-11877-1-PB.pdf",
-    "2_Area/Kerja Praktik/Arsip/2132-3628-1-SM.pdf",
-    "2_Area/Bab 3.md",
-    "Pasted image 20260216095133.png",
-    "2_Area/Pasted image 20260216094311.png",
-    "Map Of Content KP.md",
-    "2_Area/Kerja Praktik/Studi Pustaka/Evaluasi Pembelajaran.md",
-    "2_Area/G424/SQL.md",
-    "RunDown KP.md",
-    "2_Area/Kerja Praktik/Log/List Masalah.md",
-    "2_Area/Kerja Praktik/Arsip/SISTEM PENGELOLAAN NILAI RAPOR MENGGUNAKAN APLIKASI MICROSOFT EXCEL BERBASIS VBA (VISUAL BASIC FOR APPLICATIONS) DI SMKN 1 PALASAH.pdf",
-    "2_Area/Kerja Praktik/Arsip/Experimen.md",
-    "2_Area/Kerja Praktik/Arsip/Dokumentasi Untuk Teman teman.md",
-    "2_Area/Kerja Praktik/Arsip/E-Book Metodologi Penelitian Syafrida.pdf",
-    "2_Area/Kerja Praktik/Arsip/Dokumen KP2025-2026.md",
-    "2_Area/Kerja Praktik/Arsip/Alpenast.md",
-    "2_Area/Kerja Praktik/Perencanaan.md",
-    "2_Area/Bina Marga/Draft/Sumber.md",
-    "2_Area/Bina Marga/Buku/Principles of River Hydraulics.md",
-    "2_Area/Bina Marga/Buku/Modelling hydrology, hydraulics and contaminant transport -- Dhrubajyoti Sen; Soumendra Nath Kuiry -- ( WeLib.org ).pdf",
-    "2_Area/Kerja Praktik/Studi Pustaka/Manajemen Penelitian.md",
-    "2_Area/G424/Belajar/JSON/Handling JSON.md",
-    "2_Area/G424/Belajar/JSON/Handling JSON pada Python.md",
-    "2_Area/G424/Belajar/JSON/Handling JSON pada Express.js.md",
-    "2_Area/G424/Belajar/JSON",
-    "2_Area/G424/Belajar/JSON/JSON.md",
+    "app.py.py",
+    "New Python File.py",
+    "1_Proyek/Flask Python/UML.md",
+    "3_Resource/Singularity/Beta.md",
+    "3_Resource/Singularity/Alpha.md",
+    "1_Proyek/Flask Python/Pasted image 20260303233641.png",
+    "1_Proyek/Flask Python/Interaksi Kode.md",
+    "1_Proyek/Flask Python/Contoh Proyek Flask.md",
+    "1_Proyek/Flask Python/Dasar Kode Flask.md",
+    "Rundown PSBM.md",
+    "1_Proyek/Flask Python/Flask.md",
+    "2_Area/G424/Journaling Emosi.md",
     "2_Area/Bina Marga/Buku/Sumber 2.md",
-    "2_Area/Pesona Sukabumi/Pesona/Bahan/Dispar Sebut Kunjungan Wisatawan ke Sukabumi Meningkat hingga 26%.md",
-    "2_Area/Bina Marga/Jurnal/88.+Revisi+Jurnal+Ayu+Annisa+Febryana.pdf",
-    "2_Area/Bina Marga/Jurnal/1092-2947-1-PB.pdf",
-    "2_Area/Bina Marga/Jurnal/7201-13698-1-SM.pdf",
-    "2_Area/Kerja Praktik/Pasted image 20260205093729.png",
-    "2_Area/Kerja Praktik/Pasted image 20260205093022.png",
-    "2_Area/Kerja Praktik/Pasted image 20260205091135.png",
-    "2_Area/Kerja Praktik/Pasted image 20260205090158.png",
-    "2_Area/Kerja Praktik/Pasted image 20260205085401.png",
-    "2_Area/Kerja Praktik/Pasted image 20260205085150.png",
-    "2_Area/Kerja Praktik/Studi Pustaka/Pasted image 20260203141507.png",
-    "2_Area/Kerja Praktik/Studi Pustaka/Pasted image 20251214084829.png"
+    "2_Area/Bina Marga/Materi Pembuka/Keilmuan dalam Normalisasi Sungai.md",
+    "2_Area/Kerja Praktik/Sosialisasi/Bab 2.md",
+    "2_Area/Kerja Praktik/Arsip/Jurnal/Experimen.md",
+    "2_Area/Kerja Praktik/Perencanaan.md",
+    "3_Resource/Singularity/Gamma.md",
+    "Map Of Content KP.md",
+    "3_Resource/Singularity",
+    "2_Area/G424/SQL.md",
+    "2_Area/G424/Belajar/JSON/JSON.md",
+    "2_Area/G424/Belajar/JSON/Handling JSON pada Python.md",
+    "2_Area/G424/Data Science/Dasar SQL.md",
+    "2_Area/G424/Belajar/Materi API CI4.md",
+    "2_Area/G424/Data Science/Python.md",
+    "2_Area/G424/Data Science/Dasar Data Science.md",
+    "2_Area/G424/Belajar/JSON/Handling JSON pada Express.js.md",
+    "Rundown Integrasi.md",
+    "2_Area/Kerja Praktik/Sosialisasi/Pasted image 20260216095133.png",
+    "2_Area/Data Analyst",
+    "2_Area/Kerja Praktik/Arsip/Jurnal/2132-3628-1-SM.pdf",
+    "3_Resource/Islam",
+    "2_Area/Kerja Praktik/Arsip/Gambar/Pasted image 20260216094311.png",
+    "2_Area/Kerja Praktik/Arsip/Jurnal",
+    "2_Area/Kerja Praktik/Arsip/Gambar/Pasted image 20260205085150.png",
+    "2_Area/Kerja Praktik/Arsip/Jurnal/4311-11877-1-PB.pdf",
+    "2_Area/Kerja Praktik/Arsip/Gambar",
+    "2_Area/Kerja Praktik/Sosialisasi",
+    "2_Area/Kerja Praktik/Arsip/4311-11877-1-PB (1).pdf",
+    "2_Area/Kerja Praktik/Arsip/Gambar/Pasted image 20260205093729.png",
+    "2_Area/Kerja Praktik/Arsip/Gambar/Pasted image 20260205093022.png",
+    "2_Area/Kerja Praktik/Arsip/Gambar/Pasted image 20260205091135.png",
+    "2_Area/Kerja Praktik/Arsip/Gambar/Pasted image 20260205090158.png",
+    "2_Area/Kerja Praktik/Arsip/Gambar/Pasted image 20260205085401.png",
+    "2_Area/Kerja Praktik/Studi Pustaka/Pasted image 20260203141507.png"
   ]
 }

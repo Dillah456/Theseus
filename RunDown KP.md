@@ -37,5 +37,4 @@
 	* [[https://ojs.uma.ac.id/index.php/jite/article/view/10571]]
 	* [[https://journal.eng.unila.ac.id/index.php/jitet/article/view/3845]]
 	* [[https://ejournal.jurnalist.org/index.php/jureti/article/view/3]]
-
 * 

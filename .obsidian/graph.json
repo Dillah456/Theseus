@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -46,7 +46,7 @@
       "query": "file:\"Map Of Content KP\"",
       "color": {
         "a": 1,
-        "rgb": 16774912
+        "rgb": 4587637
       }
     },
     {
@@ -60,7 +60,14 @@
       "query": "path:\"2_Area/Bina Marga\" path:",
       "color": {
         "a": 1,
-        "rgb": 327424
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "path:3_Resource/Singularity  ",
+      "color": {
+        "a": 1,
+        "rgb": 64004
       }
     }
   ],
@@ -74,6 +81,6 @@
   "repelStrength": 8.4083044982699,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.45046232265568675,
+  "scale": 0.251712850213541,
   "close": false
 }
